@@ -1,1 +1,0 @@
-# udemyのtypescript学習用
